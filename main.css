@@ -1,0 +1,33 @@
+.pop__up{
+    width: 300px;
+    height: 50px;
+    border: 1px solid grey;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    right: 50%;
+    background: rgb(243, 155, 22);
+}
+
+.show__pop__up{
+    display: flex;
+}
+
+.img1{
+    width: 200px;
+    height: 200px
+}
+
+.img2{
+    width: 200px;
+    height: 200px
+}
+
+.img3{
+    width: 200px;
+    height: 200px
+}
